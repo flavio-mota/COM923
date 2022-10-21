@@ -1,4 +1,4 @@
-ID,sexo,estado_civil,idade,formacao,renda,profissao,tamanho_cidade
+ID,sexo,estado_civil,idade,formacao,renda,empregado,tamanho_cidade
 100000001,0,0,67,2,124670,1,2
 100000002,1,1,22,1,150773,1,2
 100000003,0,0,49,1,89210,0,0
